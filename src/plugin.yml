@@ -1,0 +1,10 @@
+name: BedSet
+main: org.davr.BedSet
+version: 1.0
+author: davr
+website: http://blog.davr.org/
+description: |
+  Allows right-click to set bed spawn, even during the day
+database: false
+commands:
+permissions:
